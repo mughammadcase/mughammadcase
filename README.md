@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Mughammad Case <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+**Aspiring Front-End Developer** from Cape Town, South Africa 📍
+
+I’m currently transitioning from a Customer-Service role into the world of web development 🌐.
+- I focus on building clean, responsive user-friendly interfaces that are both visually appealing and intuitive to use.
 
 <!--
-**Mughammad-Case/Mughammad-Case** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
