@@ -1,8 +1,15 @@
-## Hi there, I'm Mughammad Case <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+# Hi there, I'm Mughammad Case <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
 **Aspiring Front-End Developer** from Cape Town, South Africa 📍
 
 I’m currently transitioning from a Customer-Service role into the world of web development 🌐.
 - I focus on building clean, responsive user-friendly interfaces that are both visually appealing and intuitive to use.
+---
+
+### 🌱 What I'm Working On Right Now
+- Strengthening my **JavaScript** fundamentals  
+- Learning **TailwindCSS** and responsive interface design  
+- Completing **CodeSpace Academy** Software Development certification.
+- Building a portfolio to showcase my projects (coming soon!)
 
 <!--
 
