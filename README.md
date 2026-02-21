@@ -1,7 +1,7 @@
 # Hi there, I'm Mughammad Case <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
-**Aspiring Front-End Developer** from Cape Town, South Africa 📍
+**Front-End Developer** from Cape Town, South Africa 📍
 
-I’m currently transitioning from a Customer-Service role into the world of web development 🌐.
+I’m currently transitioning from a Resolution-Analyst role into the world of web development 🌐.
 - I focus on building clean, responsive user-friendly interfaces that are both visually appealing and intuitive to use.
 ---
 
