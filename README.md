@@ -44,7 +44,7 @@ I’m currently transitioning from a Resolution-Analyst role into the world of w
 <a href="https://twitter.com/ghammaddev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://instagram.com/ghammaddev" target="blank">
+<a href="https://instagram.com/ghammad23" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
